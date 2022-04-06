@@ -1,11 +1,6 @@
 #include<stdio.h>
-#include<string.h>
-int main()
+void main()
 {
-	char a[3];
-	printf("enter string");
-	gets(a);
-	strrev(a);
-	printf("reverse if string is:%s", a);
+	printf("test charecter XML");
+	printf("\nreverse of XML is LMX");
 }
-    
